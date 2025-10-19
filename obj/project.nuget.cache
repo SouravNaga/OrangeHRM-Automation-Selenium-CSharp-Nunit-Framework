@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4D0gRwANerI=",
+  "dgSpecHash": "5suaBqSniKM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\OrangeHRM_Automation.csproj",
+  "projectFilePath": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\OrangeHRM_Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soura\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\soura\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
@@ -61,9 +61,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: Microsoft.Edge.SeleniumTools 3.141.3 requires Selenium.WebDriver (= 3.141.0) but version Selenium.WebDriver 4.37.0 was resolved.",
-      "projectPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\OrangeHRM_Automation.csproj",
+      "projectPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\OrangeHRM_Automation.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\OrangeHRM_Automation.csproj",
+      "filePath": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\OrangeHRM_Automation.csproj",
       "libraryId": "Selenium.WebDriver",
       "targetGraphs": [
         "net8.0"

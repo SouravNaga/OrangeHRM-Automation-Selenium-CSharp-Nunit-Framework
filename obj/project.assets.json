@@ -3430,11 +3430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\OrangeHRM_Automation.csproj",
+      "projectUniqueName": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\OrangeHRM_Automation.csproj",
       "projectName": "OrangeHRM_Automation",
-      "projectPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\OrangeHRM_Automation.csproj",
+      "projectPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\OrangeHRM_Automation.csproj",
       "packagesPath": "C:\\Users\\soura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM_Automation\\obj\\",
+      "outputPath": "C:\\Users\\soura\\source\\repos\\OrangeHRM\\OrangeHRM-Automation-Selenium-CSharp-Nunit-Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
