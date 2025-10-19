@@ -12,7 +12,7 @@ namespace OrangeHRM_Automation
 {
     public class AdminPageTest : BaseTest
     {
-        //Login loginpage elements;
+        //Login loginpage;
 
         [Test,Category("Admin")]
         public void adminSection()
