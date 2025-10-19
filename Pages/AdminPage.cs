@@ -67,7 +67,7 @@ namespace OrangeHRM_Automation.Pages
             common.clickBtn(saveBtn);
             common.IsElementPresent(addBtn);
             Assert.IsTrue(common.IsElementPresent(addBtn),"Add button is not showing");
-            
+            common.IsElementPresent(numberOfRecords);
             Console.WriteLine("Total records found : " + numberOfRecords.Text);
         }
         public void selectUserRole(string role)
